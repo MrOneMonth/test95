@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "VK GN2",
+"productVersion": "0.1",
+"dataUrl": "test95.data.unityweb",
+"wasmCodeUrl": "test95.wasm.code.unityweb",
+"wasmFrameworkUrl": "test95.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "test95.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.30f1"
+}
